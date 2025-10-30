@@ -1,4 +1,4 @@
-module hybridlog
+module github.com/git4rakesh/hybrid_log
 
 go 1.21.1
 
