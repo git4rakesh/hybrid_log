@@ -1,4 +1,4 @@
-package tt
+package hybridlog
 
 import (
 	"fmt"
